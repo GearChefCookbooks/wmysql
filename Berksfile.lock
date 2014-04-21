@@ -1,0 +1,19 @@
+{
+  "sources": {
+    "wmysql": {
+      "path": "."
+    },
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "mysql": {
+      "locked_version": "4.0.20"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.4"
+    }
+  }
+}
